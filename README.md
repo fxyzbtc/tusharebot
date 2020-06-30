@@ -1,3 +1,7 @@
-# tsj
+# Tushare Bot
 
-It automatically registers new users by refering speicic user id to gain promotion TOKEN count.
+已失效。
+
+这只是一个神经网络验证码识别的演示项目，可以自动注册关联账号。
+
+cnn.h5是训练结果文件。
